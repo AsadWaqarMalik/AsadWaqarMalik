@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AsadWaqarMalik
-- 👀 I’m interested in distirbuted systems especially based on IoT devices
+- 👀 I’m interested in distirbuted systems simulation including vehicular networks, IoT devices, fog and edge computing frameworks.
 - 🌱 I’m currently exploring applications of vehicular network for smart cities
 - 💞️ I’m looking to collaborate on distributed frameworks designed to work on data centers or devices.
 - 📫 Reach me through Google
